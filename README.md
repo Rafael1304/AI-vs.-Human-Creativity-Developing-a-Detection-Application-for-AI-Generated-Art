@@ -12,4 +12,4 @@ Features:
 
 Note: This repo includes only the code used for experimentation and deployment, not the full report.
 
-The file table.md contains the experiment results, while the file Experiment_Results contains our experiment.
+The file table.md contains the experiment results, while the file Experiment_Results.ipynb contains our experiment code.
