@@ -1,3 +1,6 @@
+**Results of Our Experiment:**
+------------------------------
+
 | Metric | VGG16 | Vision Transformer (ViT) | CNN |
 | ------- | --------- | ------- | --------- |
 | Accuracy | **80%** | 75% | 75% |
