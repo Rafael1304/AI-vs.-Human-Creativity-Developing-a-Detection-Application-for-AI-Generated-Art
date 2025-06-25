@@ -11,4 +11,5 @@ Features:
 - Interactive Gradio interface for AI-art detection
 
 Note: This repo includes only the code used for experimentation and deployment, not the full report.
-The file table.md contains the experiment results, while the file Experiment_Results.csv contains our experiment
+
+The file table.md contains the experiment results, while the file Experiment_Results.csv contains our experiment. The file titled best_ai_art_model is our trained VGG-16 model.
