@@ -13,3 +13,7 @@ Features:
 Note: This repo includes only the code used for experimentation and deployment, not the full report.
 
 The file table.md contains the experiment results, while the file Experiment_Results.ipynb contains our experiment code.
+
+The trained VGG16 model used in this project is available via the OneDrive link below.
+
+https://binusianorg-my.sharepoint.com/personal/rafael_pribadi_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiycW8Q3_ElAhGCEV2Yc8JMBWwSqTTljkVhdbM9ygDoS_A&e=YucINg
