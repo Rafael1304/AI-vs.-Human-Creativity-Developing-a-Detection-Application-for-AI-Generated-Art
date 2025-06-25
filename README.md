@@ -1,0 +1,1 @@
+# AI-vs.-Human-Creativity-Developing-a-Detection-Application-for-AI-Generated-Art
