@@ -12,7 +12,7 @@ Features:
 
 Note: This repo includes only the code used for experimentation and deployment, not the full report.
 
-The file table.md contains the experiment results, while Experiment_Results.ipynb includes the code used for our experiments.
+The file table.md contains the experiment results, while Results_Of_Experiment.ipynb includes the code used for our experiments.
 
 The trained VGG16 model used in this project is available via the OneDrive link below.
 
