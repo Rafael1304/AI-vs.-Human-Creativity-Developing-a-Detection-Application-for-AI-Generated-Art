@@ -16,4 +16,4 @@ The file table.md contains the experiment results, while Results_Of_Experiment.i
 
 The trained VGG16 model used in this project is available via the OneDrive link below.
 
-https://binusianorg-my.sharepoint.com/personal/rafael_pribadi_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiycW8Q3_ElAhGCEV2Yc8JMBWwSqTTljkVhdbM9ygDoS_A&e=YucINg
+https://binusianorg-my.sharepoint.com/personal/rafael_pribadi_binus_ac_id/_layouts/15/guestaccess.aspx?share=EuNVhK2q12dMkqg074oSF18BISG_0zV807Tyi_7uwp431g&e=Fc68A1
